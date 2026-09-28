@@ -37,3 +37,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### Local ingestion runtime data (watermark / sink / isolation) ###
+data/
